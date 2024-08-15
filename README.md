@@ -32,7 +32,7 @@ Ensure you have the following installed:
 **1. Clone the repository**:
 
    ```bash
-   git clone https://github.com/Rushikesh-purohit-0503/To-do-list.git
+   git clone https://github.com/Rushikesh-purohit-0503/To-do-list-
    cd todo-list-app
   ```
 
