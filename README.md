@@ -5,10 +5,11 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3.2.0-38B2AC.svg?style=flat&logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-# **In this learning project one can get the knowledge of context API in React.js** 
+
 ## 📝 Overview
 
 The **Todo List App** is a web application that allows users to manage their tasks with features like adding, editing, deleting, and marking tasks as completed. This app is built using **React**, **Vite**, and **Tailwind CSS** for a fast, modern, and responsive user experience.
+ **In this learning project one can get the knowledge of context API in React.js** 
 
 ## ✨ Features
 
